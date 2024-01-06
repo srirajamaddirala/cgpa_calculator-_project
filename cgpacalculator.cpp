@@ -1,5 +1,4 @@
-# include <iostream>
-# include <iomanip>
+# include <bits/stdc++.h>
 using namespace std;
 double gradepoints(char grade){
     switch(grade){
